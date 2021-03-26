@@ -1,0 +1,151 @@
+body{
+    /* background-color: rgba(99, 111, 216, 0.596);    */
+    background: url(images/Space\ background.jpg) no-repeat center center fixed;
+    
+
+}
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+p{
+    color:rgb(255, 255, 255);
+    text-align:center;
+    padding-inline: 25px;
+    font-size: 25px;
+    border: black;
+    border-style: solid;
+    background-color:rgba(0, 0, 0, 0.3) ;
+    margin-inline: 175px;
+}
+
+h1{
+    font-size: 60px;
+}
+h2{
+    font-size: 40px;
+}
+
+h1, h2{
+    text-align: center;
+    color:rgb(0, 0, 0);
+}
+
+.menu ul {
+    list-style: none;
+    text-align: center;
+    
+}
+
+.menu li{
+    display: inline-flex;
+    justify-content: space-between;
+    width: auto;
+    padding: 15px;
+    border: lightblue;
+    border-style: solid;
+    border-radius: 15px;
+    margin: 30px;
+    background: rgb(248, 252, 251);
+    
+}
+
+.contact-menu ul {
+    list-style: none;
+    text-align: center;
+    
+}
+
+.contact-menu li{
+    display: inline;
+    padding: 15px;
+    border: rgb(0, 0, 0);
+    border-style: solid;
+    
+    margin: 30px;
+    background: rgb(124, 143, 138);
+}
+
+.contact-menu li:hover{
+    background:rgb(9, 71, 185);
+    border:black;
+    border-style: solid;
+}
+.menu li:hover{
+    background:rgb(0, 179, 0);
+    border:rgb(0, 0, 0);
+    border-style:solid;
+    padding:20px;
+
+}
+#TVimg{
+    display:flex;
+    justify-content: space;
+}
+#DWImage{
+    
+    width: 47.5%;
+    
+}
+
+#TNGImage{
+    
+    width: 50%
+}
+
+#SWImage{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+}
+
+#cos1{
+    display:flex;
+    justify-content: space-evenly;
+    width: auto;
+}
+#cos2{
+    display: flex;
+    justify-content: space-evenly;
+    width: auto;
+}
+#HS{
+    
+    width:25.5%;
+    
+}
+
+#MH{
+    
+    width: 25.5%;
+}
+
+#SSF{
+    
+    width:25.5%;
+   
+}
+#SSB{
+    
+    width:25.5%;
+    
+}
+
+#TP{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+}
+#OW{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+}
+#TTYD{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;  
+}
