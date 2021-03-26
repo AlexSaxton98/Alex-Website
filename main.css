@@ -104,13 +104,13 @@ h1, h2{
     display:flex;
     justify-content: space-evenly;
     width: auto;
-    height: auto;
+    height: 100%;
 }
 #cos2{
     display: flex;
     justify-content: space-evenly;
     width: auto;
-    height: auto;
+    height: 100%;
 }
 #HS{
     
